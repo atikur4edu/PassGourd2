@@ -1,0 +1,6 @@
+{
+  "name": "PassGuard",
+  "description": "Secure password manager with automatic autofill capabilities, biometric authentication, password generator, and security vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

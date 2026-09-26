@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PassGuard</string>
+    <string name="autofill_service_label">PassGuard Autofill</string>
+    <string name="biometric_prompt_title">Unlock PassGuard</string>
+    <string name="biometric_prompt_subtitle">Use your biometric credential to unlock your vault</string>
+    <string name="biometric_prompt_negative">Use Master PIN</string>
+</resources>
